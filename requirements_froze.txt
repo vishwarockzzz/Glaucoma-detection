@@ -320,7 +320,7 @@ tokenizers==0.20.0
 toml==0.10.2
 tomlkit==0.13.2
 toolz==0.12.1
-tornado==6.4.1
+tornado==6.4.2
 tqdm @ file:///croot/tqdm_1714567712644/work
 traitlets==5.14.1
 trio==0.26.2
