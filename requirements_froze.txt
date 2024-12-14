@@ -259,7 +259,7 @@ PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/
 pytest==8.3.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-python-multipart==0.0.9
+python-multipart==0.0.18
 python3-xlib==0.15
 pytube==15.0.0
 pytweening==1.2.0
