@@ -302,7 +302,7 @@ soupsieve==2.6
 SQLAlchemy==2.0.34
 sseclient==0.0.27
 stack-data==0.6.3
-starlette==0.38.5
+starlette==0.40.0
 streamlit==1.38.0
 streamlit-lottie==0.0.5
 streamlit-quill==0.0.3
